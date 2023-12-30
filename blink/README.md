@@ -1,7 +1,12 @@
 # Blink
 
+This section contains blink example implemented in 3 different ways (Thonny, Arduino and PlatformIO).
 
 
+https://github.com/cch0/raspberry-pi-pico-w/assets/1668614/729e230c-57d0-4163-b887-be3a10b72cac
+
+
+<br>
 
 ## Thonny
 
