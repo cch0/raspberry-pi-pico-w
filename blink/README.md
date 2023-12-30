@@ -30,7 +30,7 @@ In vscode, create a new project. Select **Raspberry Pi Pico** for the board opti
 ![blink platformio 01](../docs/blink_platformio_01.png)
 
 
-Create a new file [main.cpp](./platformio/main.pp) under `src` directory.
+Create a new file [main.cpp](./platformio/main.cpp) under `src` directory.
 
 ![blink platformio 02](../docs/blink_platformio_02.png)
 
@@ -46,5 +46,6 @@ See the [Current state of development](https://github.com/earlephilhower/arduino
 
 Also read the thread on [Raspberry Pi Pico W in platformIO](https://community.platformio.org/t/raspberry-pi-pico-w-in-platformio/32006/2) for the example of using `rpipicow` board for working with `Pico W` as the official supported `pico` board won't work for `Pico W`.
 
+Remember to update `upload_port` and `monitor_port` to reflect your device location.
 
 <br>
