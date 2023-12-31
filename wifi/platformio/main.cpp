@@ -5,8 +5,8 @@
 #include <Wire.h>
 
 // Replace with your network credentials
-const char* ssid = "CHII";
-const char* password = "Sumomo74823";
+const char* ssid = "";
+const char* password = "";
 
 
 //BME280
