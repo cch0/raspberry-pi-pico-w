@@ -8,7 +8,7 @@ This repository contains setup, configuration and code for various experiments o
 
 - [Blink](./blink/README.md) - classic exercise to verify the basis.
 - [bme280](./bme280/README.md) - reading humidity, pressure and temperature from BME280 sensor.
-
+- [wifi](./wifi/README.md) - obtain a wifi connection together with bme280 sensor.
 
 
 <br>
