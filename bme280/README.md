@@ -9,12 +9,12 @@ This section contains sensor examples implemented in 3 different ways (Thonny, A
 
 - SHILLEHTEK PRE-SOLDERED BME280 3.3V High Precision Altimeter Atmospheric Pressure, Temperature, and Humidity GY-BME280-3.3 Sensor Module for Raspberry Pi, Arduino, and Other MicroControllers (see [Amazon link](https://www.amazon.com/gp/product/B0BQFV883T/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1), [Product Link](https://shillehtek.com/products/pre-soldered-bme280-3-3v-high-precision-altimeter-atmospheric-pressure-temperature-and-humidity-gy-bme280-3-3-sensor-module-for-raspberry-pi-arduino-and-other-microcontrollers))
 <br>
-    ![bme280 SHILLEHTEK](../docs/bme280_SHILLEHTEK.jpg)
+![bme280 SHILLEHTEK](../docs/bme280_SHILLEHTEK.jpg)
 <br>
 
 - Waveshare BME280 Environmental Sensor Temperature Humidity Barometric Pressure Atmospheric Pressure Support I2C and SPI Interface Compatible with 3.3V/5V Voltage Levels (see [Amazon link](https://www.amazon.com/gp/product/B088HJHJXG/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1), [Product link](https://www.waveshare.com/wiki/BME280_Environmental_Sensor))
 <br>
-    ![bme280 waveshare](../docs/bme280_Waveshare.jpg)
+![bme280 waveshare](../docs/bme280_Waveshare.jpg)
 
 
 
